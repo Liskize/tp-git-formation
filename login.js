@@ -1,6 +1,6 @@
 function login() {
-    let user = "utilisateur";
-    console.log("Connexion de " + user);
+    let username = "utilisateur";
+    console.log("Connexion de " + username);
 }
 
 login();
